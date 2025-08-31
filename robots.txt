@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://eldorado-tours.com/sitemap.xml
+
+# Disallow directories that shouldn't be crawled
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /admin/
+Disallow: /private/
